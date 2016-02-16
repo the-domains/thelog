@@ -1,0 +1,13 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4829787
+  brandStrength: 1
+  lightness: 0.4723404
+  brandColors:
+    - '#939991'
+    - '#8A6D64'
+    - '#393931'
+    - '#D7DEEB'
+  rhythmicContrast: 0.4957447
+typography_spectrum: 0.0680851
+name: theLOG
